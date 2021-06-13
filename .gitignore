@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+*.bin
+
+# sample files
+*.txt
+
+#IDE files
+*.vscode
